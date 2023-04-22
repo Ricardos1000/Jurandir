@@ -1,12 +1,18 @@
 
 ### Olá meu nome é Jurandir Ricardo
 - Trabalho atualmente com Analista de Sistemas back-end
+- Sou formado em Tecnologia em Processamento de Dados
+- Pós Graduação em Segurança da Informação
 - Estudando Java(Orientação a Objetos)
 - contato - email: rikardos1000@gmail.com
 - Skills - PHP, Java, SQL, SQLServer, CSS e HTML
- 
 
+<hr dir"auto"></hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardos1000&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardos1000)](https://github.com/Ricardos1000/github-readme-stats)
+
+
 <hr dir"auto"></hr>
 <h4 dir="auto">Skills</h4>
 <div dir="auto"><br>
